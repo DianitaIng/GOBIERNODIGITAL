@@ -1,0 +1,12 @@
+body {
+background-color: green;
+}
+
+.titulo{
+ background-image:"GD.jpg" ;
+ background-size: cover;
+ background-repeat: no-repeat;
+ text-align: center
+ padding: 20px;
+ color: black;
+}
